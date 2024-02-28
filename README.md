@@ -7,6 +7,8 @@ Key Features:
 Project Management: CRUD Operations for Project Management System
 Task : CRUD Operation,Restfull Api's,Unit test for Service layer,Api Integration Test for Endpoints
 API Integration: Provides APIs for seamless integration with other systems and tools.
+Exception Hnadling : Global exception and Local resourcenot found exception implementd
+
 
 **************************************************************************************************
 
